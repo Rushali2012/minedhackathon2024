@@ -3,7 +3,7 @@ In this repository we are created an interface of an chat application where user
 User can found any query related to the scientific document.
 
 The main highlighted features of our software is : User can upload and found any query from this uploaded document type. 
-The user also get the picture/ graphs related information if it their in the doucument, document summarization, if any equation is their in the scientific paper than also it will find and return. Also we are mainting the spell errors which is there in the questions.
+The user also get the picture/ graphs related information if it their in the document, document summarization, if any equation is their in the scientific paper than also it will find and return. Also we are mainting the spell errors which is there in the questions.
 
 Goal: Develop a solution to parse multiple document types and connect with LLMs for interaction
 Building a Multimodal Document Parsing and LLM Chat Interface
