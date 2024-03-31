@@ -33,6 +33,10 @@ Used technologies : Natural language processing, Natural language generation, RA
 Database : FAISS (for storing the vector space) 
 LLM: OpenAI
 
+**Flow Diagram:**
+![image](https://github.com/Rushali2012/minedhackathon2024/assets/121008198/0f613e97-ece7-4c41-b41e-c6758680708b)
+
+
 **the django project file flows :**
 ![WhatsApp Image 2024-03-02 at 11 05 40_b58105b9](https://github.com/Rushali2012/minedhackathon2024/assets/131957409/2e583c62-5555-4b93-92d8-57b93df6cc24)
 
