@@ -79,6 +79,8 @@ You found a chatinterface where you can just upload your file (any type of from 
 **User Interface:**
 ![image](https://github.com/Rushali2012/minedhackathon2024/assets/131957409/394f9829-896b-4ac1-abe7-607bba516f88)
 
-**Note**
-Right now the user interface isn't responsive. But the implementation of the model is working absolutely fine. 
+**Note:**
+Right now the user interface isn't responsive. But the implementation of the model is working absolutely fine. One can check out that implemenation from this link: https://colab.research.google.com/drive/1HQU90G9wEHyxeYwRvdKzxymVAqkhpUJz?usp=sharing
+
+
 
