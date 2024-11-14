@@ -1,5 +1,5 @@
 # Chat with document
-In this repository we are created an interface of an chat application where user can upload any type of docuemt from this type : .doc,.docx,.pdf,.ppt,.pptx,.tex .
+In this repository we are created an interface of an chat application where user can upload any type of documet from this type : .doc,.docx,.pdf,.ppt,.pptx,.tex .
 User can found any query related to the scientific document.
 
 The main highlighted features of our software is : User can upload and found any query from this uploaded document type. 
